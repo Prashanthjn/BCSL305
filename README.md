@@ -17,4 +17,5 @@ This repository contains the following types of programs:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/BCS.git
+   git clone https://github.com/yourusername/Data_Stuctures
+   _Lab.git
